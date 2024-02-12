@@ -1,0 +1,19 @@
+modLoader = "javafml"
+loaderVersion="[1,)"
+license="Toni's MMC License"
+showAsResourcePack=false
+
+[[mods]]
+modId="prideful_animals"
+version="${version}"
+displayName="PridefulAnimals"
+authors="Toni"
+description="Replaces heart particles with random pride flags."
+logoFile="PridefulAnimals-128x.png"
+
+[[dependencies.prideful_animals]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.18,)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,4 @@
+accessWidener v2 named
+accessible class net/minecraft/client/particle/ParticleEngine$MutableSpriteSet
+accessible field net/minecraft/client/particle/ParticleEngine$MutableSpriteSet sprites Ljava/util/List;
+accessible method net/minecraft/client/particle/ParticleEngine$MutableSpriteSet <init> ()V

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "${id}",
+  "name": "${name}",
+  "version": "${version}",
+  "description": "Replaces heart particles with random pride flags.",
+  "authors": [
+    "Toni"
+  ],
+  "contact": {
+    "sources": "https://github.com/anthxnymc/PridefulAnimals",
+    "issues": "https://github.com/anthxnymc/PridefulAnimals/issues"
+  },
+  "entrypoints": {
+  },
+  "mixins": [
+    "mixins.${id}.json"
+  ],
+  "custom": {
+  },
+  "icon": "PridefulAnimals-128x.png",
+  "license": "Toni's MMC License",
+  "environment": "client",
+  "accessWidener": "${id}.accesswidener",
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "${mcVersionStr}",
+    "java": ">=${java}"
+  },
+  "recommends": {
+  }
+}

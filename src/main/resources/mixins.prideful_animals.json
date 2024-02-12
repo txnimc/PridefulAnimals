@@ -1,0 +1,11 @@
+{
+  "package": "toni.prideful_animals.mixins",
+  "refmap": "mixins.prideful_animals.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "HeartParticleMixin"
+  ],
+  "mixins": [
+  ]
+}
